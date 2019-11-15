@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicFragment</string>
+    <string name="btTamanio">Cambiar Tamaño</string>
+</resources>
